@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Louie Dave Ramilo!  
 ## 💻 Developer | 🎸 Musician | 📚 Book Lover  
 
-<img src="YOUR_BANNER_URL" alt="Louie Dave Ramilo - Developer & Musician" width="100%">
+<img src="(https://ph.pinterest.com/pin/64317100921965212/)" alt="Louie Dave Ramilo - Developer & Musician" width="100%">
 
 ### 🌟 About Me:
 💻 Passionate **BSIT student** at CvSU Naic, exploring tech and innovation.  
