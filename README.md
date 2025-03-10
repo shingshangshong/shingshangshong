@@ -66,7 +66,7 @@
 ---
 
 ### 🏆 Contribution Streak:
-![snake gif](https://github.com/shingshangshong/shingshangshong/blob/output/github-contribution-grid-snake.svg)
+![](https://nirzak-streak-stats.vercel.app/?user=shingshangshong&theme=dark&hide_border=false)<br/>
 
 ---
 
