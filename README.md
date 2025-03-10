@@ -1,5 +1,5 @@
 # 💫 About Me:
-<div style="text-align:center;>
+<div style="color: red; text-align: center;">
 Hi! I'm Louie Dave, a BSIT student from CvSU Naic. Besides being a passionate student and developer, I'm also a music lover and guitarist who enjoys expressing emotions through melodies. When I'm not strumming my guitar, you'll often find me immersed in a good novel, exploring different worlds through words. I also enjoy playing offline games, but I love going out and experiencing new places. I cherish quality time with my favorite person, and nature—mountains, the sea, and open fields—are my solace. Whether it's through music, books, or adventures, I'm always looking for ways to enjoy life to the fullest!<br><br>
 </div>
 
