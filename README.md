@@ -45,8 +45,8 @@
 ---
 
 ## 🚀 What I'm Working On:
- 🔧 Developing my Logical thinking for Coding Purposes 
- 🎮 Learning **Golang** and networking concepts  
+ 🔧 Developing my Logical thinking for Coding Purposes <br>
+ 🎮 Learning **Golang** and networking concepts  <br>
  🎸 Recording new **Guitar Covers** for my YouTube channel  
 
 ---
