@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louie Dave M. Ramilo</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate student developer from Philippines</h3>
 
 - 🌱 I’m currently learning **Open Source, Data Structure, Database, Multimedia**
 
