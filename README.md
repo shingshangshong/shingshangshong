@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Louie Dave Ramilo!  
+#  HI, I'M LOUIE DAVE RAMILO!  
 ## 💻 Developer | 🎸 Musician | 📚 Book Lover  
 
 <img src="https://i.pinimg.com/736x/b4/2f/6a/b42f6aab2908085d8477e7df44c70235.jpg" alt="Louie Dave Ramilo - Developer & Musician" width="100%">
